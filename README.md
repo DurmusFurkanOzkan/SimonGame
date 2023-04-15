@@ -1,3 +1,3 @@
 # SimonGame
 
-![Simon Project](https://github.com/DurmusFurkanOzkan/Simon Project/blob/main/CroppedGif.gif)
+![SimonGame](https://github.com/DurmusFurkanOzkan/SimonGame/blob/main/CroppedGif.gif)
